@@ -1,4 +1,4 @@
-package be.pxl.ja.notification;
+package be.pxl.ja.factory;
 
 public class SMSNotification implements Notification {
 

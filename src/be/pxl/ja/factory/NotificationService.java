@@ -1,4 +1,4 @@
-package be.pxl.ja.notification;
+package be.pxl.ja.factory;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,6 +1,4 @@
-package be.pxl.ja.notification;
-
-import java.util.function.Predicate;
+package be.pxl.ja.factory;
 
 public class User {
 

@@ -7,7 +7,7 @@ import java.time.LocalDate;
 import java.util.Arrays;
 import java.util.List;
 
-public class Demo09Serialization {
+public class Demo10Serialization {
 
 	public static void main(String[] args) {
 		Student student = new Student("Mare", LocalDate.of(2000, 11, 29));

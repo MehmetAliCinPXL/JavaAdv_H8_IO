@@ -8,7 +8,7 @@ import java.nio.file.Path;
 import java.util.Properties;
 import java.util.Scanner;
 
-public class Demo08ProgramWithProperties {
+public class Demo09ProgramWithProperties {
 	private static final String CONFIG_FILE = "resources/config.properties";
 
 	public static void main(String[] args) {

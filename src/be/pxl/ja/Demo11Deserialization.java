@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.ObjectInputStream;
 import java.util.List;
 
-public class Demo09Deserialization {
+public class Demo11Deserialization {
 
 	public static void main(String[] args) {
 		try (FileInputStream file = new FileInputStream(
